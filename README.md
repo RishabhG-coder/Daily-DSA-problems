@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0057-insert-interval](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/0057-insert-interval) |
 <!---LeetCode Topics End-->
