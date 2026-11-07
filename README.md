@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2747-count-zero-request-servers](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2747-count-zero-request-servers](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Array
 |  |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/0015-3sum) |
 | [0057-insert-interval](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/0057-insert-interval) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2747-count-zero-request-servers](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/0015-3sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2747-count-zero-request-servers](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/2747-count-zero-request-servers) |
 ## Math
 |  |
 | ------- |
