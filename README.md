@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sliding Window
 |  |
