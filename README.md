@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2747-count-zero-request-servers](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/2747-count-zero-request-servers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Array
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
@@ -122,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RishabhG-coder/Daily-DSA-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
